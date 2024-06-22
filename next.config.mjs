@@ -1,7 +1,7 @@
 // next.config.mjs
 const nextConfig = {
   images: {
-    domains: ['localhost', 'solay-backend-420j.onrender.com'],
+    domains: ['solay-backend-420j.onrender.com'],
   },
 };
 
