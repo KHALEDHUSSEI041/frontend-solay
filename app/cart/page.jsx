@@ -103,7 +103,7 @@ function Cart() {
 
 								<div className="flex justify-end">
 									<button
-										onClick={() => router.push(`/CheckoutFrom=${getTotalAmount()}`)}
+										onClick={() => router.push(`/checkout?amount=${getTotalAmount()}`)}
 										className="block px-5 py-3 text-sm text-gray-100 transition bg-gray-700 rounded hover:bg-gray-600"
 									>
 										Checkout

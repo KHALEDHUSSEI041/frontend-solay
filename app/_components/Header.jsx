@@ -46,7 +46,7 @@ function Header() {
         <nav aria-label="Global" className="hidden md:block">
           <ul className="flex items-center gap-6 text-sm">
           <li>
-              <a className="text-gray-500 transition hover:text-gray-500/75" href="https://frontend-solay-khaleds-projects-e8c5bc50.vercel.app/"> HOME </a>
+              <a className="text-gray-500 transition hover:text-gray-500/75" href="https://solay.vercel.app/"> HOME </a>
             </li>
             <li>
               <a className="text-gray-500 transition hover:text-gray-500/75" href="/men">MEN </a>
